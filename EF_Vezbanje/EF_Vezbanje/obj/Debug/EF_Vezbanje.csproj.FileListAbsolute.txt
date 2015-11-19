@@ -1,0 +1,20 @@
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EF_Vezbanje.exe.config
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EF_Vezbanje.exe
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EF_Vezbanje.pdb
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\obj\Debug\EF_Vezbanje.csprojResolveAssemblyReference.cache
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\obj\Debug\EF_Vezbanje.exe
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\obj\Debug\EF_Vezbanje.pdb
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.dll
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.xml
+c:\users\dusan\documents\visual studio 2015\Projects\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EF_Vezbanje.exe.config
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\obj\Debug\EF_Vezbanje.exe
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\obj\Debug\EF_Vezbanje.pdb
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\obj\Debug\EF_Vezbanje.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EF_Vezbanje.exe
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EF_Vezbanje.pdb
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.dll
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.xml
+C:\Users\Dusan\AppData\Local\GitHub\TutorialRepository_fdbf2020839cde135ff9dbed7d503f8e03fa3ab4\new-repo\EF_Vezbanje\EF_Vezbanje\bin\Debug\EntityFramework.SqlServer.xml
